@@ -20,6 +20,9 @@ Para el uso de variables globales y ecuaciones en sus diseños revisen éste ví
 
 Algunos kits de construcción interesantes hechos con la cortadora laser 
 
+[Alejandra Díaz de León](https://fabacademy.org/2014/students/diazdeleon.alejandra/3.Laser%20Cut.html)
+[Montserrat Sitges](https://archive.fabacademy.org/fabacademy2017/fablabveritas/students/158/works-details3.html)
+[Camila Luna](https://fabacademy.org/2025/labs/cuenca/students/camila-luna/assignments/week03.html)
 
 
 !!! note "Tarea"
