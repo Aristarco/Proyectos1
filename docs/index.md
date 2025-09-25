@@ -18,9 +18,9 @@ Debe contener al menos las secciones:
 
 |||
 |---|---|
-|[![](../images/week01/IDE1.png){ width=300 } <br>Semana 1](./semana1.md)|[![](../images/week02/Voronoi_Sandy.png){ width=300 } <br>Semana 2](./week02.md)|
-|[![](../images/week03/Recicling.jpg){ width=300 } <br>Semana 3](./week03.md)|[![](../images/week04/Designer.jpeg){ width=300 } <br>Semana 4](./week04.md)|
-|[![](../images/week05/Etextileworkshop.jpeg){ width=300 } <br>Semana 5](./week05.md)|[![](../images/Week06/Parametric_design.png){ width=300 } <br>Semana 6 ](./week06.md)|
+|[![](../images/week01/IDE1.png){ width=300 } <br>Semana 1](./semana1.md)|[![](../images/week02/Voronoi_Sandy.png){ width=300 } <br>Semana 2](./semana2.md)|
+|[![](../images/week03/Recicling.jpg){ width=300 } <br>Semana 3](./semana3.md)|[![](../images/week04/Designer.jpeg){ width=300 } <br>Semana 4](./semana4.md)|
+|[![](../images/week05/Etextileworkshop.jpeg){ width=300 } <br>Semana 5](./semana5.md)|[![](../images/Week06/Parametric_design.png){ width=300 } <br>Semana 6 ](./week06.md)|
 |[![](../images/week07/Biomaterial.jpeg){ width=300 } <br>Semana 7](./week07.md)|[![](../images/week08/Soft_Robot.jpg){ width=300 } <br>Semana 8](./week08.md)|
 |[![](../images/week09/IRIS-VAN-HERPEN-SQ-TEXINTEL.jpg){ width=300 } <br>Semana 9](./week09.md)|[![](../images/week10/Scafold2.png){ width=300 } <br>Semana 10 ](./week10.md)|
 |[![](../images/week11/Machine.png){ width=300 } <br>Semana 11](./assignments/week11.md)|[![](../images/week12/Skin_electronics.jpg){ width=300 } <br>Semana 12](./week12.md)|
