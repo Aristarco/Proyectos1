@@ -1,4 +1,4 @@
-# Semana 3
+# Práctica Lab
 
 ## Prácticas
 
