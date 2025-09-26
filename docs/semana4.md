@@ -27,6 +27,7 @@ Algunos kits de construcción interesantes hechos con la cortadora laser
 
 !!! note "Tarea"
     - Grabar en su porta celular una imagen, se calificará estética
-    - Hacer un kit de construcción de al menos 3 piezas que se ensamble y desensamble sin necesidad de pegamento. 
+    - Hacer un kit de construcción de al menos 3 piezas que se ensamble y desensamble sin necesidad de pegamento. Considere MDF de 3mm
     - Utilizar variables globales para la construcción de su kit
     - Documentar en sus páginas ambas tareas
+    - Punto extra: Si usas otro material en vez de MDF de 3mm y utilizas las propiedades del nuevo material como 
