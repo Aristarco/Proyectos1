@@ -1,4 +1,4 @@
-# Semana 1
+# Introducción
 
 Revisión de Syllabus, revisión de proyecto final e introducción al prototipado y conocer el IDIT.
 
