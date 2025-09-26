@@ -3,9 +3,9 @@
 ## Corte Laser
 
 
-[Presentación (PDF)](./recursos/archivos/Corte_LASER.pdf)
+[Presentación (PDF)](./recursos/archivos/Corte_LASER1.pdf)
 
-<iframe src="../recursos/archivos/Corte_LASER.pdf" width="800" height="440"></iframe>
+<iframe src="../recursos/archivos/Corte_LASER1.pdf" width="800" height="440"></iframe>
 
 
 
